@@ -1,0 +1,1 @@
+I have enabled Bootmagic so that whenever I want to flash this bad boy, I don't need to short any pins: I simply plug it in while holding down ESC key.
