@@ -1,6 +1,7 @@
 {
     "userspace_version": "1.1",
     "build_targets": [
-        ["durgod/dgk6x/hades_ansi", "mykeymap"]
+        ["durgod/dgk6x/hades_ansi", "mykeymap"],
+        ["massdrop/alt", "mykeymap"]
     ]
 }
